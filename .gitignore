@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl          ← optional: model files can be large
+venv/
+.env
+*.egg-info/
+
+# Data
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
